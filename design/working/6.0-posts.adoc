@@ -8,7 +8,7 @@ Steve Ebersole
 :user-guide-url: {docs-url}/userguide/html_single/Hibernate_User_Guide.html
 :jakarta-transformer-url: https://github.com/eclipse/transformer
 
-It has been years in the making, but ORM 6.0 Final has finally been released!
+It has been years in the making, but ORM 6.0 Final has finally been released!a
 
 This announcement will discuss the major changes, as well as give insight into why
 certain choices were made.
